@@ -1,3 +1,13 @@
 {
-  "books": []
+  "books": [
+    {
+      "folder": "atlas-of-the-heart",
+      "id": "atlas-of-the-heart",
+      "title": "Atlas of the Heart",
+      "views": [
+        "quiz",
+        "read"
+      ]
+    }
+  ]
 }
