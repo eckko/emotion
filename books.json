@@ -17,6 +17,15 @@
         "quiz",
         "read"
       ]
+    },
+    {
+      "folder": "emotional-intelligence",
+      "id": "emotional-intelligence",
+      "title": "Emotional Intelligence: Why It Can Matter More Than IQ",
+      "views": [
+        "quiz",
+        "read"
+      ]
     }
   ]
 }
