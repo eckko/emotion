@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 440" preserveAspectRatio="xMidYMid slice">
+  <g fill="none" stroke-width="1.6">
+    <path d="M200 110 C260 100 320 150 318 215 C316 280 250 330 190 322 C120 314 82 262 88 200 C94 140 140 118 200 110Z" stroke="#d9654f" transform="translate(200 215) scale(1.7) translate(-200 -215)" opacity="0.35"/>
+    <path d="M200 110 C260 100 320 150 318 215 C316 280 250 330 190 322 C120 314 82 262 88 200 C94 140 140 118 200 110Z" stroke="#2f7f7a" transform="translate(200 215) scale(1.4) translate(-200 -215)" opacity="0.5"/>
+    <path d="M200 110 C260 100 320 150 318 215 C316 280 250 330 190 322 C120 314 82 262 88 200 C94 140 140 118 200 110Z" stroke="#d9654f" transform="translate(200 215) scale(1.12) translate(-200 -215)" opacity="0.75"/>
+    <path d="M200 110 C260 100 320 150 318 215 C316 280 250 330 190 322 C120 314 82 262 88 200 C94 140 140 118 200 110Z" stroke="#2f7f7a" transform="translate(200 215) scale(0.88) translate(-200 -215)" opacity="0.85"/>
+    <path d="M200 110 C260 100 320 150 318 215 C316 280 250 330 190 322 C120 314 82 262 88 200 C94 140 140 118 200 110Z" stroke="#d9654f" transform="translate(200 215) scale(0.64) translate(-200 -215)"/>
+    <path d="M200 110 C260 100 320 150 318 215 C316 280 250 330 190 322 C120 314 82 262 88 200 C94 140 140 118 200 110Z" stroke="#2f7f7a" transform="translate(200 215) scale(0.42) translate(-200 -215)"/>
+    <path d="M200 110 C260 100 320 150 318 215 C316 280 250 330 190 322 C120 314 82 262 88 200 C94 140 140 118 200 110Z" stroke="#d9654f" transform="translate(200 215) scale(0.22) translate(-200 -215)"/>
+  </g>
+  <circle cx="200" cy="215" r="9" fill="#d9654f" stroke="#f6efe2" stroke-width="3"/>
+</svg>
