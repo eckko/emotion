@@ -3,8 +3,8 @@
   "templateTag": "3.2.5",
   "uiVersion": "2",
   "theme": {
-    "css": "theme/gate.css",
-    "icon": "theme/icon.svg",
-    "appleTouchIcon": "theme/apple-touch-icon.png"
+    "css": ".theme/gate.css",
+    "icon": ".theme/icon.svg",
+    "appleTouchIcon": ".theme/apple-touch-icon.png"
   }
 }

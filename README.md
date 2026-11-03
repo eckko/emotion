@@ -13,7 +13,7 @@ holds no code of its own. It is built from the same shell as
   2.x.x). Change the UI in that repo, never here. A new major version is
   adopted by hand by editing `uiVersion`.
 - This subject's **own look** (the "Atlas" sign-in screen and its icons) is the
-  one UI thing kept here, in `theme/`, named by `theme` in `subject.json`; the
+  one UI thing kept here, in `.theme/`, named by `theme` in `subject.json`; the
   template loads it (UI 2.0.0 or newer).
 - The **book pages** (the gate, the reader and the quiz) load from
   [`eckko/recall-quiz-site-template`](https://github.com/eckko/recall-quiz-site-template)
@@ -23,7 +23,7 @@ holds no code of its own. It is built from the same shell as
 ```
 index.html          the hub loader (fixed, never edited)
 subject.json        title, templateTag, uiVersion, theme, optional bookDetails
-theme/              this subject's look: gate.css, contours.svg, icon.svg,
+.theme/             this subject's look: gate.css, contours.svg, icon.svg,
                     apple-touch-icon.png (no book content)
 books.json          written by the template's tools/site/build_hub.py
 <book>/             pushed by the private book repo's publish workflow
