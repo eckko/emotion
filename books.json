@@ -34,6 +34,15 @@
       "views": [
         "quiz"
       ]
+    },
+    {
+      "folder": "the-emotional-life-of-your-brain",
+      "id": "the-emotional-life-of-your-brain",
+      "title": "The Emotional Life of Your Brain",
+      "views": [
+        "quiz",
+        "read"
+      ]
     }
   ]
 }
