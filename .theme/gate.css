@@ -1,0 +1,22 @@
+/*
+ * Emotion: sign-in screen "Atlas" (cream paper, map contour lines).
+ * Loaded by the subject-site-template UI (2.x) after its own css/hub.css,
+ * named in subject.json "theme". Only variables and the art area are set;
+ * the url() is relative to this file. No book content here.
+ */
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:wght@600&display=swap");
+
+:root {
+  --gate-bg: #f6efe2;
+  --gate-fg: #23303a;
+  --gate-muted: #4d5a62;
+  --gate-button-bg: #23303a;
+  --gate-button-fg: #f6efe2;
+  --gate-heading-font: "Fraunces", Georgia, "Times New Roman", serif;
+  --gate-focus: #d9654f;
+}
+
+#gate .gate-art {
+  min-height: 42vh;
+  background: url("contours.svg") center / cover no-repeat;
+}
