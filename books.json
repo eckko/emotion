@@ -8,6 +8,15 @@
         "quiz",
         "read"
       ]
+    },
+    {
+      "folder": "behave",
+      "id": "behave",
+      "title": "Behave: The Biology of Humans at Our Best and Worst",
+      "views": [
+        "quiz",
+        "read"
+      ]
     }
   ]
 }
