@@ -1,6 +1,15 @@
 {
   "books": [
     {
+      "folder": "a-liberated-mind",
+      "id": "a-liberated-mind",
+      "title": "A Liberated Mind",
+      "views": [
+        "quiz",
+        "read"
+      ]
+    },
+    {
       "folder": "atlas-of-the-heart",
       "id": "atlas-of-the-heart",
       "title": "Atlas of the Heart",
